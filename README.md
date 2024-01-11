@@ -7,8 +7,8 @@ It's a web scraping project focused on extracting data related to the ICC Cricke
 Outline the structure of the project. For example:
 
 1. match_results.py: All the matches of ICC Cricket World Cup 2023.
-2. batting_summary.py: Batting Summary of each match along with Team names and matches.
-3. baowling.py: Batting Summary of each match along matches.
+2. batting_summary.py: Batting Summary of each match along with Team names.
+3. bowling_summary.py: Batting Summary of each match.
 4. dataset.csv: Output dataset obtained from web scraping:
    
        1. match_results
